@@ -38,11 +38,3 @@ Press **ESC** to quit the game.
 - ⚙️ Simple physics and collision logic
 
 ---
-
-## 🚀 How to Build & Run
-
-### 🧱 1. Install Dependencies
-Make sure you have **raylib** installed.  
-- On Windows (using MSYS2):
-  ```bash
-  pacman -S mingw-w64-x86_64-raylib
