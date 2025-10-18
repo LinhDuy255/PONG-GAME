@@ -14,7 +14,6 @@ Play against the CPU or a friend, track scores, and enjoy smooth, retro-style ga
 
 ## 🧠 Features
 - Classic **Pong** gameplay recreated with raylib.  
-- **Two modes**: Single-player (vs CPU) or 2-player local mode.  
 - Smooth ball physics and collision detection.  
 - Score tracking system.  
 - Simple, minimalistic retro visuals.  
